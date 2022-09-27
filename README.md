@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **brafat@gmail.com**
 
--  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192640224-0882ad3e-aa29-4bf8-aedf-cf62053aca23.jpg" alt="Keil" width="10" height="10"/>
+-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192640224-0882ad3e-aa29-4bf8-aedf-cf62053aca23.jpg" alt="Keil" width="15" height="15"/>
 
 
 <h3 align="left">Connect with me:</h3>
