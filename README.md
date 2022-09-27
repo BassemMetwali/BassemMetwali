@@ -40,5 +40,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemmetwali&" alt="bassemmetwali" /></p>
 
 
-![Code-Blocks-Logo-1](https://user-images.githubusercontent.com/89417052/192638410-fe34429a-1086-404e-a1b0-dee889c6f34c.png)
+
 
