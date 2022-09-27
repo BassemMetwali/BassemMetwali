@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bassem Metwali</h1>
 <h3 align="center">A passionate Electrical Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89417052/192647508-4f3ff52e-52f4-49f3-9bba-7ea06b99854b.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89417052/192647508-4f3ff52e-52f4-49f3-9bba-7ea06b99854b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bassemmetwali&label=Profile%20views&color=0e75b6&style=flat" alt="bassemmetwali" /> </p>
