@@ -47,7 +47,7 @@
  <a href="https://nodered.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636837-6fe3a477-52fb-438a-a217-1be9e786bdcf.svg" alt="nodered" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassemmetwali&show_icons=true&locale=en&layout=compact" alt="bassemmetwali" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassemmetwali&show_icons=true&locale=en" alt="bassemmetwali" /></p>
 
