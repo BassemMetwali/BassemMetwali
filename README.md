@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently Student at **Cairo University**
+- 🔭 I’m currently Student at **Cairo University Faculty of Engineering**
 
 - 🌱 I’m currently learning **Embedded Systems, Power Electronics of EV and Industrial Automation**
 
