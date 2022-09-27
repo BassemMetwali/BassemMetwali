@@ -52,7 +52,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassemmetwali&show_icons=true&locale=en" alt="bassemmetwali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemmetwali&" alt="bassemmetwali" /></p>
-![264-2648074_eclipse-logo-png-transparent-eclipse-ide]()
-
-
 
