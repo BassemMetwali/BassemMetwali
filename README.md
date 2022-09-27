@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Embedded Systems, Power Electronics of EV and Industrial Automation**
 
-- 💬 Mobile phone **+(20)01159391400**
+- 💬 Mobile phone **+(20) 01159391400**
 
 - 📫 How to reach me **brafat@gmail.com**
 
