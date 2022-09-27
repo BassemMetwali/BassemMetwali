@@ -40,11 +40,11 @@
  <a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="altium" width="40" height="40"/> 
   
  <a href="https://factoryio.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192633073-ae4fe762-f41c-472d-8f6e-c7874f5bd70a.png" alt="FactoryIO" width="40" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636790-916c91e9-d644-459d-a3b6-0fa7321b352f.jpg" alt="Step7" width="40" height="40"/>
+ <a href="https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal/software/step7-tia-portal.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636790-916c91e9-d644-459d-a3b6-0fa7321b352f.jpg" alt="Step7" width="40" height="40"/>
  <a href="https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192633582-fc69c75a-8355-48d2-b437-cf6544582933.jpg" alt="TiaPortal" width="40" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636799-e0d0d1e7-e6fe-4152-a5e4-386b672ef6a0.png" alt="indusoft" width="60" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636813-59173721-b5c8-4af3-8b24-101ca399c66d.jpg" alt="mqtt" width="40" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636837-6fe3a477-52fb-438a-a217-1be9e786bdcf.svg" alt="nodered" width="40" height="40"/>
+ <a href="http://download.indusoft.com/80.0.0/QuickStart.pdf" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636799-e0d0d1e7-e6fe-4152-a5e4-386b672ef6a0.png" alt="indusoft" width="60" height="40"/>
+ <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636813-59173721-b5c8-4af3-8b24-101ca399c66d.jpg" alt="mqtt" width="40" height="40"/>
+ <a href="https://nodered.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636837-6fe3a477-52fb-438a-a217-1be9e786bdcf.svg" alt="nodered" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassemmetwali&show_icons=true&locale=en&layout=compact" alt="bassemmetwali" /></p>
