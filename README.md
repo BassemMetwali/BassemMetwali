@@ -46,9 +46,7 @@
  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636813-59173721-b5c8-4af3-8b24-101ca399c66d.jpg" alt="mqtt" width="40" height="40"/>
  <a href="https://nodered.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636837-6fe3a477-52fb-438a-a217-1be9e786bdcf.svg" alt="nodered" width="40" height="40"/>
 </p> 
-<p align="right"> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192647508-4f3ff52e-52f4-49f3-9bba-7ea06b99854b.gif&layout=compact" alt="nodered" width="300" height="300"/> </p>
-
-
+<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192647508-4f3ff52e-52f4-49f3-9bba-7ea06b99854b.gif" alt="nodered" width="300" height="300"/> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassemmetwali&show_icons=true&locale=en" alt="bassemmetwali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemmetwali&" alt="bassemmetwali" /></p>
