@@ -31,5 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemmetwali&" alt="bassemmetwali" /></p>
 
 
-![kisspng-code-blocks-integrated-development-environment-c-5af9eee0253788 5088014415263290561525](https://user-images.githubusercontent.com/89417052/192636223-e439ff6e-5aa0-49a6-935e-2c99941da900.jpg)
 
