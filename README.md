@@ -1,4 +1,4 @@
-[![MasterHead][(https://user-images.githubusercontent.com/89417052/192649245-d67269d1-232e-4084-ab32-25b83bd7f736.gif))](https://rishavchanda.io)
+ ![bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a_mv2](https://user-images.githubusercontent.com/89417052/192649245-d67269d1-232e-4084-ab32-25b83bd7f736.gif)
 <h1 align="center">Hi 👋, I'm Bassem Metwali</h1>
 <h3 align="center">A passionate Electrical Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89417052/192647508-4f3ff52e-52f4-49f3-9bba-7ea06b99854b.gif">
@@ -55,4 +55,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bassemmetwali" alt="bassemmetwali" /></a> </p>
 
-  ![bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a_mv2](https://user-images.githubusercontent.com/89417052/192649245-d67269d1-232e-4084-ab32-25b83bd7f736.gif)
+
