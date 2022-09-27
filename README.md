@@ -21,6 +21,13 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634434-16d854f4-1b9f-432b-861e-d9fb33fcb418.png" alt="STM32" width="40" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634968-4534be08-a28b-4b04-8c13-c988d6f5e7bb.png" alt="Keil" width="80" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636622-ef0433d8-a109-41a8-ba33-a9c0e52c8e72.jpg" alt="Codeblocks" width="40" height="40"/>
+  
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636731-7d3fb33f-b174-4517-826a-4f93d592e033.png" alt="AVR" width="40" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636774-f3d650ec-07b9-4bd9-a508-bfdc44ddbaea.jpg" alt="LR-spice" width="40" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636790-916c91e9-d644-459d-a3b6-0fa7321b352f.jpg" alt="Step7" width="40" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636781-8bd25692-8ed6-486f-934d-5423277eda4a.jpg" alt="Codeblocks" width="40" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636827-72168876-0dde-447b-ba16-e7e8754e6bdd.jpg" alt="FREERTos" width="80" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636759-0bb61e0e-3b8f-4ab8-bead-d561790888e7.png" alt="Codeblocks" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassemmetwali&show_icons=true&locale=en&layout=compact" alt="bassemmetwali" /></p>
@@ -29,7 +36,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemmetwali&" alt="bassemmetwali" /></p>
 
-![kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669 0618493515263290559719](https://user-images.githubusercontent.com/89417052/192636495-7b7d04fb-474c-4206-9310-dde35add1d7b.jpg)
+  ![mchp-studio-logo]()
+![LTSpice-logo]()
+![down![STEP7]()
+load (2)]()
+![FreeRTOS-logo-v1-5000px-wide-1-scaled-e1614723466251]()
 
-![kisspng-code-blocks-integrated-development-environment-c-5af9eee0253788 5088014415263290561525](https://user-images.githubusercontent.com/89417052/192636622-ef0433d8-a109-41a8-ba33-a9c0e52c8e72.jpg)
+![logo]()
+![InduSoft_logo](https://user-images.githubusercontent.com/89417052/192636799-e0d0d1e7-e6fe-4152-a5e4-386b672ef6a0.png)
+![mqtt-logo-ver](https://user-images.githubusercontent.com/89417052/192636813-59173721-b5c8-4af3-8b24-101ca399c66d.jpg)
 
+![node-red-icon-2](https://user-images.githubusercontent.com/89417052/192636837-6fe3a477-52fb-438a-a217-1be9e786bdcf.svg)
