@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/89417052/192649245-d67269d1-232e-4084-ab32-25b83bd7f736.gif))](https://rishavchanda.io)
+[![MasterHead][(https://user-images.githubusercontent.com/89417052/192649245-d67269d1-232e-4084-ab32-25b83bd7f736.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bassem Metwali</h1>
 <h3 align="center">A passionate Electrical Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89417052/192647508-4f3ff52e-52f4-49f3-9bba-7ea06b99854b.gif">
