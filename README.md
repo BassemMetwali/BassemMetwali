@@ -30,7 +30,7 @@
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636731-7d3fb33f-b174-4517-826a-4f93d592e033.png" alt="AVR" width="50" height="40"/>  
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636827-72168876-0dde-447b-ba16-e7e8754e6bdd.jpg" alt="FREERTos" width="80" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636759-0bb61e0e-3b8f-4ab8-bead-d561790888e7.png" alt="Proteus" width="40" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192643928-a7acec35-8578-4f4b-ad61-998d9e76f760.jpg" alt="cube" width="60" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192643928-a7acec35-8578-4f4b-ad61-998d9e76f760.jpg" alt="cube" width="100" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192643965-2741efcc-4740-487b-9b4a-c903430ff036.png" alt="Eclipse" width="40" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192643984-f5dc28ed-eb8b-4833-8bcb-1def7108d00c.jpg" alt="atollic" width="60" height="40"/>
   
