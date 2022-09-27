@@ -1,3 +1,4 @@
+ <img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/89417052/192649245-d67269d1-232e-4084-ab32-25b83bd7f736.gif">
  ![bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a_mv2](https://user-images.githubusercontent.com/89417052/192649245-d67269d1-232e-4084-ab32-25b83bd7f736.gif)
 <h1 align="center">Hi 👋, I'm Bassem Metwali</h1>
 <h3 align="center">A passionate Electrical Engineer from Egypt</h3>
