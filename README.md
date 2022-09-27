@@ -20,7 +20,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634423-a613e898-f43c-40e3-acb1-8e92b3a033b2.png" alt="avr" width="40" height="40"/>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634434-16d854f4-1b9f-432b-861e-d9fb33fcb418.png" alt="STM32" width="40" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634968-4534be08-a28b-4b04-8c13-c988d6f5e7bb.png" alt="Keil" width="80" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192638158-ab39c68f-4c15-4428-b65b-57e797971fce.png" alt="Codeblocks" width="80" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192638410-fe34429a-1086-404e-a1b0-dee889c6f34c.png" alt="Codeblocks" width="80" height="40"/>
   
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636731-7d3fb33f-b174-4517-826a-4f93d592e033.png" alt="AVR" width="40" height="40"/>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192636774-f3d650ec-07b9-4bd9-a508-bfdc44ddbaea.jpg" alt="LR-spice" width="40" height="40"/>
@@ -39,5 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassemmetwali&" alt="bassemmetwali" /></p>
 
-![cb_splash]()
+
+![Code-Blocks-Logo-1](https://user-images.githubusercontent.com/89417052/192638410-fe34429a-1086-404e-a1b0-dee889c6f34c.png)
 
