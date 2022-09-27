@@ -19,7 +19,7 @@
 <a href="https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192633582-fc69c75a-8355-48d2-b437-cf6544582933.jpg" alt="TiaPortal" width="40" height="40"/>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634423-a613e898-f43c-40e3-acb1-8e92b3a033b2.png" alt="avr" width="40" height="40"/>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634434-16d854f4-1b9f-432b-861e-d9fb33fcb418.png" alt="STM32" width="40" height="40"/>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634968-4534be08-a28b-4b04-8c13-c988d6f5e7bb.png" alt="Keil" width="40" height="40"/>
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634968-4534be08-a28b-4b04-8c13-c988d6f5e7bb.png" alt="Keil" width="80" height="40"/>
    
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192634423-a613e898-f43c-40e3-acb1-8e92b3a033b2.png" alt="avr" width="40" height="40"/>
 </p>
