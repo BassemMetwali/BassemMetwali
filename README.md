@@ -13,7 +13,7 @@
 
 - 💬 Mobile phone **+(20) 01159391400**
 
-- 📫 How to reach me **brafat@gmail.com**
+- 📫 How to reach me **brafat36@gmail.com**
 
 - <a href="https://www.facebook.com/curt.fs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/89417052/192640224-0882ad3e-aa29-4bf8-aedf-cf62053aca23.jpg" alt="CURTlogo" width="20" height="20"/> </a> Embedded Systems member at Cairo Uni Racing Team - Formula Student
 
